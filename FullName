@@ -1,7 +1,9 @@
 #include <iostream>
 
+//name changed to Andrew Glenn on friend's repository
+
 int main() {
-    std::cout << "Nicholas Cera\n" <<
+    std::cout << "Andrew Glenn\n" <<
     std::endl;
     return 0;
 }
